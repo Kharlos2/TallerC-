@@ -1,0 +1,8 @@
+C:\Users\308\source\repos\taller02\taller02\bin\Debug\taller02.exe.config
+C:\Users\308\source\repos\taller02\taller02\bin\Debug\taller02.exe
+C:\Users\308\source\repos\taller02\taller02\bin\Debug\taller02.pdb
+C:\Users\308\source\repos\taller02\taller02\obj\Debug\taller02.csproj.AssemblyReference.cache
+C:\Users\308\source\repos\taller02\taller02\obj\Debug\taller02.csproj.SuggestedBindingRedirects.cache
+C:\Users\308\source\repos\taller02\taller02\obj\Debug\taller02.csproj.CoreCompileInputs.cache
+C:\Users\308\source\repos\taller02\taller02\obj\Debug\taller02.exe
+C:\Users\308\source\repos\taller02\taller02\obj\Debug\taller02.pdb
