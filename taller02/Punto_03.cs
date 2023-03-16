@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace taller02
 {
-        /*
+        
     internal class Punto_03
     {
         static void Punto3(string[] args)
@@ -77,5 +77,5 @@ namespace taller02
 
         }
     }
-        */
+       
 }

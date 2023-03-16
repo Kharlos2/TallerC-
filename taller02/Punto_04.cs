@@ -11,7 +11,7 @@ namespace taller02
 {
     internal class Punto_04
     {
-        static void Main(string[] args) {
+        static void Punto4(string[] args) {
 
             int final = numeroMayor();
 
@@ -24,7 +24,7 @@ namespace taller02
 
             for (int i = 0; i < 4; i++)
             {
-                Console.Write("Ingrese numero " + (i + 1));
+                Console.Write("Ingrese numero " + (i + 1) + ": ");
                 int num = int.Parse(Console.ReadLine());
                 if (num > mayor) {
                     mayor = num;

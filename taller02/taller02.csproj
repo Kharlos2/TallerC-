@@ -46,6 +46,7 @@
     <Compile Include="Punto_03.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Punto_04.cs" />
+    <Compile Include="Punto_5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
