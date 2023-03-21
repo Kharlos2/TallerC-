@@ -1,0 +1,8 @@
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\bin\Debug\Taller_02.exe.config
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\bin\Debug\Taller_02.exe
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\bin\Debug\Taller_02.pdb
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\obj\Debug\Taller_02.csproj.AssemblyReference.cache
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\obj\Debug\Taller_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\obj\Debug\Taller_02.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\obj\Debug\Taller_02.exe
+C:\Users\CARLOS\source\repos\Taller_02\Taller_02\obj\Debug\Taller_02.pdb
